@@ -1,6 +1,7 @@
 # Enable GZIP
-## Test GZIP Status : 
-https://www.giftofspeed.com/gzip-test/
+### Test GZIP Status : https://www.giftofspeed.com/gzip-test/
+
+Add the following code within ```.htaccess file.```
 
 ```
 <IfModule mod_deflate.c>
