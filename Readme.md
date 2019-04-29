@@ -2,6 +2,7 @@
 ## Test GZIP Status : 
 https://www.giftofspeed.com/gzip-test/
 
+```
 <IfModule mod_deflate.c>
 AddOutputFilterByType DEFLATE application/javascript 
 AddOutputFilterByType DEFLATE application/rss+xml 
@@ -30,3 +31,4 @@ BrowserMatch ^Mozilla/4\.0[678] no-gzip
 BrowserMatch \bMSIE !no-gzip !gzip-only-text/html 
 Header append Vary User-Agent 
 </IfModule>
+```
