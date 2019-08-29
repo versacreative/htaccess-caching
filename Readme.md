@@ -1,4 +1,4 @@
-# Enable GZIP
+# Enable GZIP & CACHING
 ### Test GZIP Status : https://www.giftofspeed.com/gzip-test/
 ### Test CACHING Status : https://www.giftofspeed.com/cache-checker/
 
