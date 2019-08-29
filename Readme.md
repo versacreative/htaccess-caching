@@ -1,5 +1,8 @@
 # Enable GZIP
 ### Test GZIP Status : https://www.giftofspeed.com/gzip-test/
+### Test CACHING Status : https://www.giftofspeed.com/cache-checker/
+
+
 
 Add the following code within ```.htaccess file.```
 
